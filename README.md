@@ -2,7 +2,7 @@
 Vehicle Service Management System - 'Service List' Stored Cross Site Scripting (XSS)
 
 ### Exploit Title: Vehicle Service Management System - 'Service List' Stored Cross Site Scripting (XSS)
-### Date: 28/12/2021
+### Date: 29/12/2021
 ### Exploit Author: P.L.Sanu
 ### Exploit Author Website: https://www.plsanu.com
 ### Vendor Homepage: https://www.sourcecodester.com
