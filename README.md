@@ -12,7 +12,7 @@ Vehicle Service Management System - 'Service List' Stored Cross Site Scripting (
 ### CVE : 
 ### Google Dork: N/A
 ### Reference: 
-- https://www.plsanu.com/vehicle-service-management-system-service-list-stored-cross-site-scripting-xss/
+- https://www.plsanu.com/vehicle-service-management-system-service-list-stored-cross-site-scripting-xss
 - https://github.com/plsanu/Vehicle-Service-Management-System-Service-List-Stored-Cross-Site-Scripting-XSS
 
 ### Steps to Reproduce:
